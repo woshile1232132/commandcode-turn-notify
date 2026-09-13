@@ -59,7 +59,7 @@
 - 本项目为**非官方**社区 mod，与 Command Code 的开发者及发行方无任何隶属或认可关系；「Command Code」名称及商标归其各自所有者所有
 - 本项目按「现状」提供，不附带任何明示或默示的保证；使用风险自行承担
 
-*This is an unofficial community mod, not affiliated with or endorsed by the Command Code developers or Z.ai. Provided as-is, without warranty of any kind.*
+*This is an unofficial community mod, not affiliated with or endorsed by the Command Code developers. Provided as-is, without warranty of any kind.*
 
 ---
 
@@ -124,4 +124,4 @@ Edit the constants at the top of `commandcode-turn-notify\index.mjs`, then resta
 - This is an **unofficial** community mod, not affiliated with or endorsed by the Command Code developers or distributor; the "Command Code" name and trademarks belong to their respective owners
 - Provided as-is, without warranty of any kind; use at your own risk
 
-*This is an unofficial community mod, not affiliated with or endorsed by the Command Code developers or Z.ai. Provided as-is, without warranty of any kind.*
+*This is an unofficial community mod, not affiliated with or endorsed by the Command Code developers. Provided as-is, without warranty of any kind.*
