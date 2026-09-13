@@ -57,7 +57,6 @@
 ## 声明
 
 - 本项目为**非官方**社区 mod，与 Command Code 的开发者及发行方无任何隶属或认可关系；「Command Code」名称及商标归其各自所有者所有
-- 本项目与 Z.ai / 智谱亦无任何隶属关系；提示音来自 Kenney Interface Sounds（CC0 公共领域），与 ZCode 无关
 - 本项目按「现状」提供，不附带任何明示或默示的保证；使用风险自行承担
 
 *This is an unofficial community mod, not affiliated with or endorsed by the Command Code developers or Z.ai. Provided as-is, without warranty of any kind.*
@@ -123,7 +122,6 @@ Edit the constants at the top of `commandcode-turn-notify\index.mjs`, then resta
 ## Disclaimer
 
 - This is an **unofficial** community mod, not affiliated with or endorsed by the Command Code developers or distributor; the "Command Code" name and trademarks belong to their respective owners
-- This project is not affiliated with Z.ai / Zhipu in any way; the notification sound comes from Kenney Interface Sounds (CC0) and has nothing to do with ZCode
 - Provided as-is, without warranty of any kind; use at your own risk
 
 *This is an unofficial community mod, not affiliated with or endorsed by the Command Code developers or Z.ai. Provided as-is, without warranty of any kind.*
